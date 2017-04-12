@@ -1,0 +1,16 @@
+1  引入fiexible库
+	<script src="JS/flexible.js"></script>
+	<script src="JS/flexible_css.js"></script>
+2 iphone6  dpr=2 1rem=75px
+	宽高以rem为单位
+
+
+
+
+
+	1 申请github账号  github.com
+	2  sign up 申请
+	3  邮箱验证
+	4  登录并点击new repository
+	5	下载并安装Git
+	6
